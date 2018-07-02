@@ -1,4 +1,4 @@
-Finding Charity Donors with Supervised Machine Learning
+# Finding Charity Donors with Supervised Machine Learning
 
 ### Install
 
